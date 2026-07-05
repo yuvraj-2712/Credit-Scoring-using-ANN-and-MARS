@@ -71,5 +71,4 @@ particularly at catching minority-class (default) cases?
 
 ## Author
 
-Yuvraj — Quantitative Options Analyst, Futures First. Built as part of an applied
-quant/credit-risk project series ahead of MFE program applications.
+Yuvraj Singh
